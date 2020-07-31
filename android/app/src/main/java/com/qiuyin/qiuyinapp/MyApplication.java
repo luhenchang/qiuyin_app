@@ -7,4 +7,5 @@ public class MyApplication extends BmfMapApplication{
     public void onCreate() {
         super.onCreate();
     }**/
+
 }
